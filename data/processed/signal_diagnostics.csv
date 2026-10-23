@@ -1,0 +1,12 @@
+driver,type,variance_explained_pct
+Ship Mode,categorical,66.46109198566647
+Product Name,categorical,0.16897943887871292
+Origin Factory,categorical,0.13052343197830796
+Region,categorical,0.08321995337113802
+Division,categorical,0.06512452885717548
+Units,numeric (rho^2),0.03238344043055254
+Sales,numeric (rho^2),0.026388810327628964
+Country/Region,categorical,0.018464064365297395
+Unit Price,numeric (rho^2),0.012308077992569492
+Order Month,numeric (rho^2),0.0050802051727075
+Distance Miles,numeric (rho^2),0.0004946655878263725

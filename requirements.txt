@@ -1,0 +1,14 @@
+# Core (needed to run the pipeline and the dashboard)
+streamlit>=1.35
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+plotly>=5.18
+joblib>=1.3
+matplotlib>=3.7
+
+# Optional - only to re-run notebooks/scripts/build_notebooks.py or open the notebooks
+jupyter>=1.0
+ipykernel>=6.25
+nbformat>=5.9
+nbclient>=0.9

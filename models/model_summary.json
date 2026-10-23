@@ -1,0 +1,5 @@
+{
+  "selected_model": "Linear Regression",
+  "holdout_r2": 0.6714588159503256,
+  "sklearn_version": "1.9.1"
+}

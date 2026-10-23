@@ -1,0 +1,16 @@
+Product Name,Origin Factory,Division,Orders,Sales,Gross_Profit,Avg_Lead,Avg_Distance,Margin_Pct,Product Cluster
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Chocolate,2137,26867.75,17443.37,4.054749649040711,1154.2243918502463,64.92307692307692,Core volume
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Chocolate,2064,27874.8,19357.5,3.9224806201550386,1294.225205941228,69.44444444444444,Core volume
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Chocolate,2015,28485.0,18610.2,3.975682382133995,1176.7843745555112,65.33333333333333,Core volume
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Chocolate,1818,24890.4,16593.6,3.9614961496149617,1307.6251021672645,66.66666666666666,Core volume
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Chocolate,1810,23574.95,16819.95,3.9160220994475137,1282.4822749108976,71.34670487106017,Core volume
+Wonka Gum,Secret Factory,Other,120,597.5,310.7,3.7,815.8579224591231,52.0,Mid volume
+Kazookles,The Other Factory,Other,96,1205.75,92.75,3.7395833333333335,989.5948646734382,7.6923076923076925,Mid volume
+Lickable Wallpaper,Secret Factory,Other,94,7860.0,3930.0,3.7127659574468086,900.4188976308541,50.0,Mid volume
+Laffy Taffy,Sugar Shack,Sugar,10,53.73,33.480000000000004,4.2,1118.5665533521508,62.31155778894474,Long tail
+SweeTARTS,Sugar Shack,Sugar,10,61.5,28.7,4.6,1091.1501458884309,46.666666666666664,Long tail
+Fizzy Lifting Drinks,Sugar Shack,Sugar,6,78.75,47.25,4.166666666666667,1016.3315388372579,60.0,Long tail
+Hair Toffee,The Other Factory,Sugar,4,76.5,59.5,3.25,1104.0671271346873,77.77777777777779,Mid volume
+Nerds,Sugar Shack,Sugar,4,15.0,7.0,4.5,1050.7578367113667,46.666666666666664,Long tail
+Everlasting Gobstopper,Secret Factory,Sugar,3,130.0,104.0,3.6666666666666665,882.0010320635382,80.0,Mid volume
+Fun Dip,Sugar Shack,Sugar,3,12.0,4.8,3.6666666666666665,899.3686867756741,40.0,Mid volume

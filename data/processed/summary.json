@@ -1,0 +1,53 @@
+{
+  "validation": {
+    "rows_raw": 10194,
+    "duplicate_rows_removed": 0,
+    "unparseable_dates_removed": 0,
+    "missing_values_total": 0,
+    "financial_identity_mismatches": 0,
+    "non_positive_sales_units_removed": 0,
+    "ship_before_order_removed": 0,
+    "unmapped_products_removed": 0,
+    "raw_lead_time_range_days": [
+      904,
+      1642
+    ],
+    "cohort_offsets_days": {
+      "2021": 904.0,
+      "2022": 1269.0,
+      "2023": 1269.0,
+      "2024": 1635.0
+    },
+    "corrected_lead_time_range_days": [
+      0.0,
+      11.0
+    ],
+    "rows_validated": 10194
+  },
+  "outliers": {
+    "rows_before": 10194,
+    "rows_after": 10194,
+    "rows_removed": 0,
+    "rule": "3.0 x IQR (Sales/Units per product)",
+    "by_column": {
+      "Lead Time": 0,
+      "Sales": 0,
+      "Units": 0
+    }
+  },
+  "model": {
+    "selected": "Linear Regression",
+    "holdout_r2": 0.6714588159503256
+  },
+  "kpis": {
+    "Lead Time Reduction % (network)": 5.846657913894713,
+    "Lead Time Reduction % (reassigned products)": 5.960750219387704,
+    "Profit Impact Stability %": 77.53833817780897,
+    "Scenario Confidence Score": 72.14339696656565,
+    "Recommendation Coverage % (products)": 80.0,
+    "Recommendation Coverage % (orders)": 97.87129684127919,
+    "Products Recommended": 12,
+    "Products Evaluated": 15,
+    "Network Profit Impact ($)": 1232.9123256368239
+  }
+}

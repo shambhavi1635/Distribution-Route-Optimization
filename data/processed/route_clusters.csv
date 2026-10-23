@@ -1,0 +1,197 @@
+Origin Factory,State/Province,Orders,Units,Sales,Gross_Profit,Avg_Lead,Std_Lead,P90_Lead,Avg_Distance,Margin_Pct,Route,Route Cluster,Consistently Slow
+Lot's O' Nuts,Alabama,34,133,475.61,326.91,4.470588235294118,1.5420429997865595,7.0,1446.5161397221611,68.73488782826266,Lot's O' Nuts -> Alabama,Typical,False
+Lot's O' Nuts,Alberta,16,57,204.32,141.42000000000002,4.625,0.5,5.0,1323.8003732856355,69.21495693030542,Lot's O' Nuts -> Alberta,Slow,True
+Lot's O' Nuts,Arizona,111,411,1468.05,1013.15,4.027027027027027,1.979253575832243,7.0,97.49038145353408,69.01331698511632,Lot's O' Nuts -> Arizona,Fast,False
+Lot's O' Nuts,Arkansas,31,122,434.69,299.69,4.290322580645161,2.224013614872846,7.0,1115.5275615569878,68.94338494099243,Lot's O' Nuts -> Arkansas,Fast,False
+Lot's O' Nuts,British Columbia,18,71,253.4,173.8,4.444444444444445,0.9835244081556433,5.0,1291.683780718621,68.5872138910813,Lot's O' Nuts -> British Columbia,Slow,True
+Lot's O' Nuts,California,1125,4221,15044.9,10401.0,3.7813333333333334,1.835350771791598,6.0,527.0306510918529,69.1330617019721,Lot's O' Nuts -> California,Typical,False
+Lot's O' Nuts,Colorado,103,405,1447.66,999.0600000000001,3.7572815533980584,1.8012306219037688,6.0,547.1290153948213,69.01206084301562,Lot's O' Nuts -> Colorado,Fast,False
+Lot's O' Nuts,Connecticut,47,147,523.59,362.29,3.4893617021276597,1.8751503177488364,6.0,2209.704366479587,69.19345289253042,Lot's O' Nuts -> Connecticut,Typical,False
+Lot's O' Nuts,Delaware,43,177,631.59,436.19,4.069767441860465,1.9321262508932793,6.0,2057.702399849269,69.0622080780253,Lot's O' Nuts -> Delaware,Typical,False
+Lot's O' Nuts,District of Columbia,8,35,126.0,85.3,5.375,0.9161253813129042,6.0,1977.026108056332,67.6984126984127,Lot's O' Nuts -> District of Columbia,Slow,True
+Lot's O' Nuts,Florida,209,740,2640.13,1820.73,3.8325358851674642,1.8412197514107083,6.0,1759.602905971375,68.96364951725862,Lot's O' Nuts -> Florida,Typical,False
+Lot's O' Nuts,Georgia,110,415,1474.09,1027.79,3.8454545454545452,1.9213258210826627,6.0,1641.530410189439,69.7236939399901,Lot's O' Nuts -> Georgia,Typical,False
+Lot's O' Nuts,Idaho,14,41,146.5,100.9,3.7857142857142856,1.3688047244316384,5.0,806.9524159533701,68.87372013651878,Lot's O' Nuts -> Idaho,Fast,False
+Lot's O' Nuts,Illinois,267,995,3539.21,2452.51,4.112359550561798,1.5446113138388224,6.0,1343.4030493515045,69.29540773223404,Lot's O' Nuts -> Illinois,Typical,False
+Lot's O' Nuts,Indiana,90,352,1253.78,869.58,4.144444444444445,1.6322667158618296,6.0,1491.9927313670921,69.35666544369826,Lot's O' Nuts -> Indiana,Typical,False
+Lot's O' Nuts,Iowa,16,64,227.87,157.47,4.125,1.8211717839530315,6.0,1182.0826640166472,69.10519155658929,Lot's O' Nuts -> Iowa,Fast,False
+Lot's O' Nuts,Kansas,15,53,188.93,130.83,4.066666666666666,1.3870146083619757,6.199999999999999,844.1731019508279,69.24786958132643,Lot's O' Nuts -> Kansas,Fast,False
+Lot's O' Nuts,Kentucky,77,291,1039.13,715.73,3.896103896103896,1.6904096014405845,6.0,1523.0154974662605,68.87781124594612,Lot's O' Nuts -> Kentucky,Typical,False
+Lot's O' Nuts,Louisiana,24,80,283.71000000000004,197.31,3.2083333333333335,1.7932037558919305,5.0,1163.6382678756847,69.54636776990588,Lot's O' Nuts -> Louisiana,Fast,False
+Lot's O' Nuts,Maine,6,20,71.23,49.03,5.333333333333333,0.8164965809277261,6.0,2404.4968721346754,68.83335673171416,Lot's O' Nuts -> Maine,Slow,True
+Lot's O' Nuts,Manitoba,2,5,18.0,12.0,2.0,0.0,2.0,1391.9329388358324,66.66666666666666,Lot's O' Nuts -> Manitoba,Low volume (<5 orders),False
+Lot's O' Nuts,Maryland,60,229,812.74,567.54,3.9833333333333334,1.7319692590009486,6.0,1989.0687135639143,69.83045008243718,Lot's O' Nuts -> Maryland,Typical,False
+Lot's O' Nuts,Massachusetts,76,281,1003.24,690.54,3.6447368421052633,1.6141371058529161,5.0,2259.334953904447,68.83098760017543,Lot's O' Nuts -> Massachusetts,Typical,False
+Lot's O' Nuts,Michigan,147,590,2103.76,1450.86,3.938775510204082,1.955758934762409,6.0,1618.3054756062377,68.96509107502756,Lot's O' Nuts -> Michigan,Typical,False
+Lot's O' Nuts,Minnesota,43,158,561.21,388.81,4.5813953488372094,1.3492953741284814,7.0,1306.3334998611178,69.28066142798596,Lot's O' Nuts -> Minnesota,Typical,False
+Lot's O' Nuts,Mississippi,30,126,448.43,312.33,4.0,1.8003831009940154,6.0,1280.9338231884772,69.64966661463328,Lot's O' Nuts -> Mississippi,Fast,False
+Lot's O' Nuts,Missouri,36,145,514.08,359.08,4.166666666666667,1.424279266355945,5.0,1145.9583578953932,69.84905073140366,Lot's O' Nuts -> Missouri,Fast,False
+Lot's O' Nuts,Montana,8,26,92.61,64.01,4.375,0.5175491695067657,5.0,985.294764958334,69.11780585249974,Lot's O' Nuts -> Montana,Slow,True
+Lot's O' Nuts,Nebraska,23,83,295.28000000000003,205.38,3.347826086956522,1.6406399985198101,5.0,888.1180759124676,69.55432132213491,Lot's O' Nuts -> Nebraska,Fast,False
+Lot's O' Nuts,Nevada,24,109,389.21000000000004,268.11,4.5,1.933683126777138,6.699999999999999,521.4782051058166,68.88569152899463,Lot's O' Nuts -> Nevada,Fast,False
+Lot's O' Nuts,New Brunswick,4,28,97.72,69.72,4.0,0.0,4.0,2555.078099534613,71.34670487106017,Lot's O' Nuts -> New Brunswick,Low volume (<5 orders),False
+Lot's O' Nuts,New Hampshire,13,50,178.02,123.02,3.3076923076923075,1.4935759876113537,5.0,2278.3046009031373,69.10459498932704,Lot's O' Nuts -> New Hampshire,Typical,False
+Lot's O' Nuts,New Jersey,65,231,825.88,567.98,4.507692307692308,1.5624807691124247,6.600000000000001,2104.202554260421,68.77270305613406,Lot's O' Nuts -> New Jersey,Typical,False
+Lot's O' Nuts,New Mexico,18,73,260.71,179.41,4.833333333333333,1.2485285456935957,6.0,342.08458716009216,68.81592574124507,Lot's O' Nuts -> New Mexico,Fast,False
+Lot's O' Nuts,New York,645,2455,8757.81,6055.01,4.038759689922481,1.7507899759786965,6.0,2075.38918768752,69.13840332229177,Lot's O' Nuts -> New York,Typical,False
+Lot's O' Nuts,Newfoundland and Labrador,6,45,162.0,112.5,7.666666666666667,2.7325202042558927,11.0,3179.039160468897,69.44444444444444,Lot's O' Nuts -> Newfoundland and Labrador,Typical,False
+Lot's O' Nuts,North Carolina,143,574,2045.6100000000001,1417.01,4.062937062937063,1.7611487257012681,6.0,1850.7485529213745,69.27077986517467,Lot's O' Nuts -> North Carolina,Typical,False
+Lot's O' Nuts,North Dakota,5,16,57.160000000000004,39.66,3.2,1.6431676725154984,5.0,1167.2717305184772,69.38418474457661,Lot's O' Nuts -> North Dakota,Fast,False
+Lot's O' Nuts,Ohio,262,974,3472.7400000000002,2400.24,3.4656488549618323,1.9799675291414813,6.0,1678.477424336911,69.1166053318129,Lot's O' Nuts -> Ohio,Typical,False
+Lot's O' Nuts,Oklahoma,41,160,569.4,395.0,4.560975609756097,2.000609663175264,6.0,835.9481161422976,69.371268001405,Lot's O' Nuts -> Oklahoma,Fast,False
+Lot's O' Nuts,Ontario,28,97,348.32,239.22,3.142857142857143,1.2682529749484557,5.0,1877.6225245486407,68.67822691777677,Lot's O' Nuts -> Ontario,Typical,False
+Lot's O' Nuts,Oregon,77,305,1085.9,751.6,4.402597402597403,1.583298856815467,6.0,898.9672676581833,69.21447647112994,Lot's O' Nuts -> Oregon,Fast,False
+Lot's O' Nuts,Pennsylvania,331,1216,4338.55,2993.65,3.8429003021148036,1.4310737817520418,6.0,1943.3665190662944,69.0011639833585,Lot's O' Nuts -> Pennsylvania,Typical,False
+Lot's O' Nuts,Prince Edward Island,6,22,78.1,54.9,4.666666666666667,0.5163977794943221,5.0,2694.6510028828293,70.29449423815622,Lot's O' Nuts -> Prince Edward Island,Slow,True
+Lot's O' Nuts,Quebec,24,68,242.93,165.83,3.875,2.1531069562883753,6.399999999999999,2207.2488807441114,68.26246243773927,Lot's O' Nuts -> Quebec,Typical,False
+Lot's O' Nuts,Rhode Island,30,99,353.76,242.86,3.2,1.8827712516943995,7.0,2272.813069013892,68.65106286748079,Lot's O' Nuts -> Rhode Island,Typical,False
+Lot's O' Nuts,South Carolina,21,79,281.32,194.92000000000002,3.6666666666666665,1.6832508230603465,5.0,1775.3609890781258,69.28764396416892,Lot's O' Nuts -> South Carolina,Typical,False
+Lot's O' Nuts,South Dakota,9,33,117.59,82.09,4.666666666666667,0.8660254037844387,5.2,1010.4018871581453,69.81035802364147,Lot's O' Nuts -> South Dakota,Slow,True
+Lot's O' Nuts,Tennessee,109,382,1361.56,941.76,4.302752293577981,1.54862296750397,7.0,1459.9397422785005,69.16771938071037,Lot's O' Nuts -> Tennessee,Typical,False
+Lot's O' Nuts,Texas,569,2142,7642.34,5278.34,3.945518453427065,1.6695866234061534,6.0,733.3452024958358,69.06706584632457,Lot's O' Nuts -> Texas,Typical,False
+Lot's O' Nuts,Utah,29,110,393.91,270.11,4.482758620689655,1.5028708160235102,6.0,444.17786420516256,68.57150110431317,Lot's O' Nuts -> Utah,Fast,False
+Lot's O' Nuts,Vermont,5,29,103.19,72.39,3.8,0.8366600265340756,4.6,2227.1636961483027,70.15214652582615,Lot's O' Nuts -> Vermont,Slow,True
+Lot's O' Nuts,Virginia,109,431,1538.84,1059.24,3.81651376146789,1.6225559261871882,6.0,1876.150896108039,68.8336669179382,Lot's O' Nuts -> Virginia,Typical,False
+Lot's O' Nuts,Washington,269,980,3492.91,2415.91,4.007434944237918,1.898531571315528,7.0,1100.0590429067895,69.16611077869169,Lot's O' Nuts -> Washington,Typical,False
+Lot's O' Nuts,West Virginia,2,11,38.72,27.42,2.0,2.8284271247461903,3.6,1781.9913643854622,70.81611570247934,Lot's O' Nuts -> West Virginia,Low volume (<5 orders),False
+Lot's O' Nuts,Wisconsin,58,216,768.25,531.95,3.8620689655172415,1.810769690588314,6.0,1419.2165506474835,69.24178327367395,Lot's O' Nuts -> Wisconsin,Typical,False
+Lot's O' Nuts,Wyoming,1,4,13.96,9.96,5.0,0.0,5.0,735.6450132751543,71.34670487106017,Lot's O' Nuts -> Wyoming,Low volume (<5 orders),False
+Secret Factory,Alabama,3,15,150.0,75.2,3.0,1.0,3.8,631.7457287876013,50.13333333333333,Secret Factory -> Alabama,Low volume (<5 orders),False
+Secret Factory,Alberta,2,9,180.0,90.0,5.0,0.0,5.0,1299.527609935865,50.0,Secret Factory -> Alberta,Low volume (<5 orders),False
+Secret Factory,Arizona,5,32,640.0,320.0,4.2,1.3038404810405297,5.6,1248.130463511953,50.0,Secret Factory -> Arizona,Slow,True
+Secret Factory,Arkansas,2,6,63.75,31.95,4.5,0.7071067811865476,4.9,463.5965238525053,50.117647058823536,Secret Factory -> Arkansas,Low volume (<5 orders),False
+Secret Factory,California,31,106,1238.75,620.55,3.6129032258064515,1.7258315745332495,5.0,1565.423581879238,50.09485368314833,Secret Factory -> California,Typical,False
+Secret Factory,Colorado,7,20,171.25,103.85,3.0,2.081665999466133,5.200000000000001,807.2808770674354,60.64233576642335,Secret Factory -> Colorado,Fast,False
+Secret Factory,Connecticut,1,2,2.5,1.3,3.0,0.0,3.0,920.9168796873817,52.0,Secret Factory -> Connecticut,Low volume (<5 orders),False
+Secret Factory,Delaware,1,3,60.0,30.0,5.0,0.0,5.0,811.1287244302666,50.0,Secret Factory -> Delaware,Low volume (<5 orders),False
+Secret Factory,Florida,7,35,78.75,52.15,4.0,1.0,5.0,996.3196815031704,66.22222222222221,Secret Factory -> Florida,Slow,True
+Secret Factory,Georgia,7,29,317.5,159.1,4.0,0.816496580927726,5.0,723.4150866279689,50.11023622047244,Secret Factory -> Georgia,Slow,True
+Secret Factory,Illinois,13,47,546.25,273.65,3.0,1.6832508230603465,4.0,120.62558997473072,50.096109839816926,Secret Factory -> Illinois,Fast,False
+Secret Factory,Indiana,4,17,21.25,11.05,4.25,1.707825127659933,5.7,248.9681539590973,52.0,Secret Factory -> Indiana,Low volume (<5 orders),False
+Secret Factory,Kentucky,2,7,46.25,23.25,2.5,0.7071067811865476,2.9,389.7963526977882,50.27027027027027,Secret Factory -> Kentucky,Low volume (<5 orders),False
+Secret Factory,Louisiana,2,9,11.25,5.85,4.5,0.7071067811865476,4.9,721.3526678524,52.0,Secret Factory -> Louisiana,Low volume (<5 orders),False
+Secret Factory,Maryland,3,7,8.75,4.55,4.666666666666667,1.5275252316519468,5.8,744.2201770001572,52.0,Secret Factory -> Maryland,Low volume (<5 orders),False
+Secret Factory,Massachusetts,2,5,100.0,50.0,3.0,1.4142135623730951,3.8,964.9380477065396,50.0,Secret Factory -> Massachusetts,Low volume (<5 orders),False
+Secret Factory,Michigan,5,21,82.5,41.7,3.8,2.16794833886788,5.0,329.047027726225,50.54545454545455,Secret Factory -> Michigan,Fast,False
+Secret Factory,Minnesota,1,4,5.0,2.6,5.0,0.0,5.0,382.43192512353966,52.0,Secret Factory -> Minnesota,Low volume (<5 orders),False
+Secret Factory,Mississippi,1,4,80.0,40.0,4.0,0.0,4.0,603.5667636134692,50.0,Secret Factory -> Mississippi,Low volume (<5 orders),False
+Secret Factory,Nebraska,1,2,2.5,1.3,2.0,0.0,2.0,477.73815469749417,52.0,Secret Factory -> Nebraska,Low volume (<5 orders),False
+Secret Factory,Nevada,2,12,202.5,101.3,4.5,3.5355339059327378,6.5,1374.2313410929878,50.02469135802469,Secret Factory -> Nevada,Low volume (<5 orders),False
+Secret Factory,New Hampshire,1,5,6.25,3.25,6.0,0.0,6.0,976.1991374020448,52.0,Secret Factory -> New Hampshire,Low volume (<5 orders),False
+Secret Factory,New Jersey,2,5,6.25,3.25,5.5,2.1213203435596424,6.7,834.4977864354954,52.0,Secret Factory -> New Jersey,Low volume (<5 orders),False
+Secret Factory,New Mexico,2,10,12.5,6.5,2.0,2.8284271247461903,3.6,974.6046221001052,52.0,Secret Factory -> New Mexico,Low volume (<5 orders),False
+Secret Factory,New York,24,101,1026.25,514.45,3.7083333333333335,1.7315277663950703,6.0,775.5313753976816,50.12911084043849,Secret Factory -> New York,Fast,False
+Secret Factory,North Carolina,4,16,20.0,10.4,4.5,3.3166247903554,7.0,727.4458815055908,52.0,Secret Factory -> North Carolina,Low volume (<5 orders),False
+Secret Factory,Ohio,13,60,768.75,384.95,3.769230769230769,1.4232501627054275,5.800000000000001,413.8987074436951,50.074796747967476,Secret Factory -> Ohio,Fast,False
+Secret Factory,Oregon,2,9,180.0,90.0,2.5,0.7071067811865476,2.9,1524.4716257942314,50.0,Secret Factory -> Oregon,Low volume (<5 orders),False
+Secret Factory,Pennsylvania,19,100,762.5,382.9,3.5789473684210527,1.6771599497591227,5.199999999999999,664.4750864101482,50.21639344262295,Secret Factory -> Pennsylvania,Fast,False
+Secret Factory,Quebec,2,5,100.0,50.0,4.0,0.0,4.0,906.1620618749582,50.0,Secret Factory -> Quebec,Low volume (<5 orders),False
+Secret Factory,Rhode Island,3,9,142.5,71.3,3.3333333333333335,2.3094010767585034,5.2,983.24952750301,50.03508771929825,Secret Factory -> Rhode Island,Low volume (<5 orders),False
+Secret Factory,South Carolina,1,5,6.25,3.25,5.0,0.0,5.0,741.0431387360836,52.0,Secret Factory -> South Carolina,Low volume (<5 orders),False
+Secret Factory,Tennessee,3,20,62.5,31.7,4.333333333333333,0.5773502691896258,4.8,447.8753030584833,50.72,Secret Factory -> Tennessee,Low volume (<5 orders),False
+Secret Factory,Texas,16,63,517.5,268.7,3.375,1.6683325008322931,5.5,842.4025376200087,51.92270531400966,Secret Factory -> Texas,Fast,False
+Secret Factory,Utah,1,5,100.0,50.0,6.0,0.0,6.0,1117.7632903828892,50.0,Secret Factory -> Utah,Low volume (<5 orders),False
+Secret Factory,Vermont,1,6,7.5,3.9,4.0,0.0,4.0,923.8185720505768,52.0,Secret Factory -> Vermont,Low volume (<5 orders),False
+Secret Factory,Virginia,5,15,93.75,47.15,3.4,1.949358868961793,5.6,680.3713813243099,50.29333333333334,Secret Factory -> Virginia,Fast,False
+Secret Factory,Washington,11,26,351.25,175.85,3.727272727272727,2.0045403009622476,6.0,1520.4025785643446,50.064056939501775,Secret Factory -> Washington,Fast,False
+Secret Factory,Wisconsin,5,32,415.0,207.8,4.2,1.3038404810405297,5.6,221.1977103012377,50.0722891566265,Secret Factory -> Wisconsin,Fast,False
+Sugar Shack,Arizona,1,3,11.25,6.75,5.0,0.0,5.0,1244.3229414222571,60.0,Sugar Shack -> Arizona,Low volume (<5 orders),False
+Sugar Shack,California,1,4,6.0,2.8,3.0,0.0,3.0,1395.7058534154512,46.666666666666664,Sugar Shack -> California,Low volume (<5 orders),False
+Sugar Shack,Connecticut,1,2,3.98,2.48,6.0,0.0,6.0,1227.00450676925,62.311557788944725,Sugar Shack -> Connecticut,Low volume (<5 orders),False
+Sugar Shack,Delaware,1,3,4.5,2.1,6.0,0.0,6.0,1206.3583494833229,46.666666666666664,Sugar Shack -> Delaware,Low volume (<5 orders),False
+Sugar Shack,Florida,3,15,36.89,22.64,5.333333333333333,0.5773502691896258,5.8,1532.971309520409,61.37164543236649,Sugar Shack -> Florida,Low volume (<5 orders),False
+Sugar Shack,Illinois,2,5,12.0,6.3,2.5,0.7071067811865476,2.9,656.391547341244,52.5,Sugar Shack -> Illinois,Low volume (<5 orders),False
+Sugar Shack,Michigan,3,7,17.740000000000002,10.09,4.0,1.0,4.8,576.2022114224006,56.8771138669673,Sugar Shack -> Michigan,Low volume (<5 orders),False
+Sugar Shack,New Jersey,1,3,5.97,3.72,7.0,0.0,7.0,1193.2349066489792,62.311557788944725,Sugar Shack -> New Jersey,Low volume (<5 orders),False
+Sugar Shack,New York,9,31,56.97,29.12,4.222222222222222,1.481365736219265,6.0,1057.4650617641155,51.11462173073548,Sugar Shack -> New York,Fast,False
+Sugar Shack,Ohio,2,11,18.46,9.86,2.5,3.5355339059327378,4.5,853.7832988529558,53.412784398699884,Sugar Shack -> Ohio,Low volume (<5 orders),False
+Sugar Shack,Pennsylvania,3,8,24.23,14.43,5.333333333333333,0.5773502691896257,5.8,1030.6361615531202,59.554271564176645,Sugar Shack -> Pennsylvania,Low volume (<5 orders),False
+Sugar Shack,Rhode Island,1,3,4.5,2.1,4.0,0.0,4.0,1280.0480584766733,46.666666666666664,Sugar Shack -> Rhode Island,Low volume (<5 orders),False
+Sugar Shack,Tennessee,1,1,1.5,0.6,3.0,0.0,3.0,984.2494512216626,40.0,Sugar Shack -> Tennessee,Low volume (<5 orders),False
+Sugar Shack,Texas,3,10,15.0,7.0,4.333333333333333,1.5275252316519468,5.6,1161.4911879017577,46.666666666666664,Sugar Shack -> Texas,Low volume (<5 orders),False
+Sugar Shack,Washington,1,1,1.99,1.24,3.0,0.0,3.0,1123.9317057057535,62.311557788944725,Sugar Shack -> Washington,Low volume (<5 orders),False
+The Other Factory,Alabama,2,11,35.75,2.75,5.0,1.4142135623730951,5.8,242.15322953493333,7.6923076923076925,The Other Factory -> Alabama,Low volume (<5 orders),False
+The Other Factory,Arizona,2,10,38.75,18.75,2.5,0.7071067811865476,2.9,1230.884471846138,48.38709677419355,The Other Factory -> Arizona,Low volume (<5 orders),False
+The Other Factory,California,21,70,233.75,33.75,3.5238095238095237,1.8060744065250365,6.0,1645.3440351336142,14.43850267379679,The Other Factory -> California,Typical,False
+The Other Factory,Colorado,2,6,19.5,1.5,4.5,2.1213203435596424,5.7,898.5599504809518,7.6923076923076925,The Other Factory -> Colorado,Low volume (<5 orders),False
+The Other Factory,Connecticut,2,3,9.75,0.75,3.5,2.1213203435596424,4.7,1033.894127236831,7.6923076923076925,The Other Factory -> Connecticut,Low volume (<5 orders),False
+The Other Factory,Delaware,2,8,26.0,2.0,4.5,2.1213203435596424,5.7,839.9849649311126,7.6923076923076925,The Other Factory -> Delaware,Low volume (<5 orders),False
+The Other Factory,Florida,3,12,39.0,3.0,3.6666666666666665,2.0816659994661326,5.4,628.6089223599952,7.6923076923076925,The Other Factory -> Florida,Low volume (<5 orders),False
+The Other Factory,Georgia,2,12,39.0,3.0,4.0,0.0,4.0,411.9961288810383,7.6923076923076925,The Other Factory -> Georgia,Low volume (<5 orders),False
+The Other Factory,Indiana,1,6,19.5,1.5,5.0,0.0,5.0,386.7808074135349,7.6923076923076925,The Other Factory -> Indiana,Low volume (<5 orders),False
+The Other Factory,Kentucky,2,8,26.0,2.0,1.5,2.1213203435596424,2.7,308.80752082238627,7.6923076923076925,The Other Factory -> Kentucky,Low volume (<5 orders),False
+The Other Factory,Louisiana,1,3,9.75,0.75,3.0,0.0,3.0,303.29573028232915,7.6923076923076925,The Other Factory -> Louisiana,Low volume (<5 orders),False
+The Other Factory,Maryland,1,1,3.25,0.25,5.0,0.0,5.0,774.7795589828909,7.6923076923076925,The Other Factory -> Maryland,Low volume (<5 orders),False
+The Other Factory,Massachusetts,3,10,32.5,2.5,3.3333333333333335,0.5773502691896258,3.8,1093.6604835328155,7.6923076923076925,The Other Factory -> Massachusetts,Low volume (<5 orders),False
+The Other Factory,Missouri,1,2,6.5,0.5,6.0,0.0,6.0,263.0016116237059,7.6923076923076925,The Other Factory -> Missouri,Low volume (<5 orders),False
+The Other Factory,Nevada,1,5,16.25,1.25,3.0,0.0,3.0,1489.624923971014,7.6923076923076925,The Other Factory -> Nevada,Low volume (<5 orders),False
+The Other Factory,New Hampshire,2,11,35.75,2.75,2.0,0.0,2.0,1142.5576199440734,7.6923076923076925,The Other Factory -> New Hampshire,Low volume (<5 orders),False
+The Other Factory,New Jersey,3,21,68.25,5.25,4.333333333333333,0.5773502691896257,4.8,905.8676491389909,7.6923076923076925,The Other Factory -> New Jersey,Low volume (<5 orders),False
+The Other Factory,New York,14,54,181.75,29.75,4.214285714285714,1.6723346844167577,6.0,943.1584829277735,16.368638239339752,The Other Factory -> New York,Fast,False
+The Other Factory,North Carolina,1,2,9.0,7.0,0.0,0.0,0.0,596.881518631224,77.77777777777779,The Other Factory -> North Carolina,Low volume (<5 orders),False
+The Other Factory,Ohio,3,9,29.25,2.25,3.0,1.7320508075688772,4.4,530.5326814101646,7.6923076923076925,The Other Factory -> Ohio,Low volume (<5 orders),False
+The Other Factory,Oregon,2,8,26.0,2.0,2.5,0.7071067811865476,2.9,1728.324769421588,7.6923076923076925,The Other Factory -> Oregon,Low volume (<5 orders),False
+The Other Factory,Pennsylvania,7,30,97.5,7.5,3.857142857142857,2.6726124191242437,7.0,772.3317180546861,7.6923076923076925,The Other Factory -> Pennsylvania,Fast,False
+The Other Factory,Rhode Island,1,7,22.75,1.75,4.0,0.0,4.0,1094.7199259251995,7.6923076923076925,The Other Factory -> Rhode Island,Low volume (<5 orders),False
+The Other Factory,South Carolina,1,2,6.5,0.5,4.0,0.0,4.0,522.945717351704,7.6923076923076925,The Other Factory -> South Carolina,Low volume (<5 orders),False
+The Other Factory,Tennessee,3,13,42.25,3.25,4.666666666666667,2.516611478423583,6.6,210.0637546681609,7.6923076923076925,The Other Factory -> Tennessee,Low volume (<5 orders),False
+The Other Factory,Texas,9,31,100.75,7.75,3.4444444444444446,1.0137937550497031,4.2,595.7025679495555,7.6923076923076925,The Other Factory -> Texas,Slow,True
+The Other Factory,Virginia,4,17,55.25,4.25,2.75,1.892969448600091,4.0,640.550967882409,7.6923076923076925,The Other Factory -> Virginia,Low volume (<5 orders),False
+The Other Factory,Washington,4,16,52.0,4.0,5.75,1.5,7.0,1779.6317938063917,7.6923076923076925,The Other Factory -> Washington,Low volume (<5 orders),False
+Wicked Choccy's,Alabama,22,97,333.75,217.25,3.5,1.4057704208690962,5.0,336.2632346869629,65.09363295880149,Wicked Choccy's -> Alabama,Fast,False
+Wicked Choccy's,Alberta,8,44,146.0,94.88,5.0,0.0,5.0,2128.7208836490813,64.98630136986301,Wicked Choccy's -> Alberta,Slow,True
+Wicked Choccy's,Arizona,105,406,1429.5,931.46,4.095238095238095,2.0452750874027155,7.0,1767.829056329978,65.15984610003498,Wicked Choccy's -> Arizona,Typical,False
+Wicked Choccy's,Arkansas,27,112,393.5,256.38,4.185185185185185,2.1490075891521694,7.0,682.1502466066512,65.15374841168996,Wicked Choccy's -> Arkansas,Fast,False
+Wicked Choccy's,British Columbia,4,10,37.5,24.5,4.0,0.0,4.0,2441.392724171726,65.33333333333333,Wicked Choccy's -> British Columbia,Low volume (<5 orders),False
+Wicked Choccy's,California,823,3266,11394.0,7421.32,3.9866342648845685,1.751208472874324,6.0,2195.3465983271763,65.13357907670704,Wicked Choccy's -> California,Typical,False
+Wicked Choccy's,Colorado,70,262,906.5,590.22,3.6,1.3873131157598924,5.0,1450.7737526947235,65.10976282404854,Wicked Choccy's -> Colorado,Typical,False
+Wicked Choccy's,Connecticut,31,127,440.75,287.01,3.6129032258064515,2.26093519522105,6.0,804.3313489104981,65.11854792966534,Wicked Choccy's -> Connecticut,Fast,False
+Wicked Choccy's,Delaware,49,176,601.5,391.42,4.551020408163265,1.514667517006564,6.0,571.1863146236433,65.0739817123857,Wicked Choccy's -> Delaware,Fast,False
+Wicked Choccy's,District of Columbia,2,5,16.25,10.55,6.0,0.0,6.0,524.8086371549869,64.92307692307693,Wicked Choccy's -> District of Columbia,Low volume (<5 orders),False
+Wicked Choccy's,Florida,161,577,2009.25,1308.59,4.074534161490683,1.9024746878442818,6.0,251.56194068568,65.12828169715067,Wicked Choccy's -> Florida,Fast,False
+Wicked Choccy's,Georgia,65,249,862.25,561.43,3.8,1.90558390001595,6.0,142.29318523528252,65.11220643664831,Wicked Choccy's -> Georgia,Fast,False
+Wicked Choccy's,Idaho,7,23,78.75,51.25,3.4285714285714284,1.3972762620115438,5.0,1989.434385679198,65.07936507936508,Wicked Choccy's -> Idaho,Slow,True
+Wicked Choccy's,Illinois,210,798,2801.5,1825.22,4.1571428571428575,1.7193164961530345,6.0,712.1058874016819,65.15152596823131,Wicked Choccy's -> Illinois,Fast,False
+Wicked Choccy's,Indiana,54,203,708.25,461.31,4.555555555555555,1.4751612213350842,6.0,612.6800502910585,65.1337804447582,Wicked Choccy's -> Indiana,Fast,False
+Wicked Choccy's,Iowa,14,48,172.5,112.5,3.9285714285714284,2.0177781274036484,5.700000000000001,970.0944312552164,65.21739130434783,Wicked Choccy's -> Iowa,Fast,False
+Wicked Choccy's,Kansas,9,21,74.25,48.39,4.0,2.1794494717703365,7.0,1068.9511283267036,65.17171717171718,Wicked Choccy's -> Kansas,Fast,False
+Wicked Choccy's,Kentucky,58,217,769.25,501.39,4.120689655172414,1.601288803377121,6.0,446.0706247441666,65.17907052323692,Wicked Choccy's -> Kentucky,Fast,False
+Wicked Choccy's,Louisiana,15,64,220.5,143.54,2.8666666666666667,1.505545305418162,5.0,645.7957401714447,65.09750566893425,Wicked Choccy's -> Louisiana,Fast,False
+Wicked Choccy's,Maine,2,15,55.25,36.07,4.0,0.0,4.0,1116.09623382333,65.28506787330318,Wicked Choccy's -> Maine,Low volume (<5 orders),False
+Wicked Choccy's,Manitoba,10,35,120.25,78.27,3.6,0.8432740427115678,4.0,1483.9298696832925,65.08939708939708,Wicked Choccy's -> Manitoba,Slow,True
+Wicked Choccy's,Maryland,41,183,652.25,425.23,3.951219512195122,1.7457264893475595,5.0,538.8469278370607,65.19432732847835,Wicked Choccy's -> Maryland,Fast,False
+Wicked Choccy's,Massachusetts,54,195,671.25,436.95,4.277777777777778,1.3793171220826776,6.0,868.3326839701011,65.09497206703911,Wicked Choccy's -> Massachusetts,Fast,False
+Wicked Choccy's,Michigan,100,328,1127.0,733.56,4.36,1.8776731786060548,7.0,879.5548924042682,65.08961845607809,Wicked Choccy's -> Michigan,Fast,False
+Wicked Choccy's,Minnesota,45,169,595.25,387.87,4.466666666666667,2.029330386650192,7.0,1206.661694876944,65.16085678286434,Wicked Choccy's -> Minnesota,Typical,False
+Wicked Choccy's,Mississippi,22,91,315.75,205.61,4.5,1.439245834257849,6.0,502.5474850738223,65.11797307996834,Wicked Choccy's -> Mississippi,Fast,False
+Wicked Choccy's,Missouri,29,105,362.25,235.82999999999998,3.9655172413793105,1.546488155713954,5.199999999999999,773.9887739475031,65.10144927536231,Wicked Choccy's -> Missouri,Fast,False
+Wicked Choccy's,Montana,7,30,109.5,71.46,4.571428571428571,2.63673679998231,7.0,1823.020883967503,65.26027397260273,Wicked Choccy's -> Montana,Typical,False
+Wicked Choccy's,Nebraska,14,51,185.75,121.21,4.0,2.0380986614602725,6.0,1220.2800653574143,65.25437415881561,Wicked Choccy's -> Nebraska,Fast,False
+Wicked Choccy's,Nevada,12,42,151.5,98.82,4.416666666666667,1.9286515936521476,7.0,2042.0473235387574,65.22772277227722,Wicked Choccy's -> Nevada,Typical,False
+Wicked Choccy's,New Brunswick,4,20,75.0,49.0,4.0,0.0,4.0,1251.1857321126367,65.33333333333333,Wicked Choccy's -> New Brunswick,Low volume (<5 orders),False
+Wicked Choccy's,New Hampshire,11,61,208.25,135.51,4.363636363636363,1.629277586706898,6.0,953.3572994369569,65.07082833133254,Wicked Choccy's -> New Hampshire,Fast,False
+Wicked Choccy's,New Jersey,59,194,672.0,437.56,4.254237288135593,1.5930151452727561,6.0,664.8102039262457,65.11309523809524,Wicked Choccy's -> New Jersey,Fast,False
+Wicked Choccy's,New Mexico,17,68,229.5,149.26,4.529411764705882,1.007326105267277,5.4,1451.1850276222108,65.03703703703704,Wicked Choccy's -> New Mexico,Slow,True
+Wicked Choccy's,New York,436,1583,5518.25,3594.11,4.091743119266055,1.7993167766116738,6.0,810.2343338005442,65.13133692746796,Wicked Choccy's -> New York,Typical,False
+Wicked Choccy's,North Carolina,101,391,1376.25,896.75,3.871287128712871,1.7358765298063892,6.0,259.6920346580232,65.1589464123524,Wicked Choccy's -> North Carolina,Fast,False
+Wicked Choccy's,North Dakota,2,14,52.5,34.3,2.0,0.0,2.0,1471.1276357769216,65.33333333333333,Wicked Choccy's -> North Dakota,Low volume (<5 orders),False
+Wicked Choccy's,Nova Scotia,6,26,87.5,56.900000000000006,3.3333333333333335,1.0327955589886446,4.0,1294.6695211660106,65.02857142857144,Wicked Choccy's -> Nova Scotia,Slow,True
+Wicked Choccy's,Ohio,189,705,2479.75,1615.73,3.4708994708994707,1.8666871712098134,5.200000000000017,575.3707901900917,65.15697146889808,Wicked Choccy's -> Ohio,Fast,False
+Wicked Choccy's,Oklahoma,25,87,308.25,200.91,4.28,2.1118712081942874,6.0,970.8517932991168,65.17761557177616,Wicked Choccy's -> Oklahoma,Fast,False
+Wicked Choccy's,Ontario,30,137,466.25,303.35,3.6333333333333333,1.0661996103898193,5.0,826.8131376119559,65.06166219839142,Wicked Choccy's -> Ontario,Fast,False
+Wicked Choccy's,Oregon,43,177,628.25,409.51,4.441860465116279,1.6227889805222802,6.0,2274.146877005785,65.18265021886191,Wicked Choccy's -> Oregon,Typical,False
+Wicked Choccy's,Pennsylvania,227,799,2804.25,1826.99,3.9295154185022025,1.566903612952418,6.0,635.6539172888668,65.15075332085227,Wicked Choccy's -> Pennsylvania,Fast,False
+Wicked Choccy's,Prince Edward Island,4,16,52.0,33.76,5.0,0.0,5.0,1366.9464244139435,64.92307692307692,Wicked Choccy's -> Prince Edward Island,Low volume (<5 orders),False
+Wicked Choccy's,Quebec,24,77,254.75,165.53,4.666666666666667,1.2394482175782784,7.0,1043.48778529044,64.97742885181552,Wicked Choccy's -> Quebec,Slow,True
+Wicked Choccy's,Rhode Island,21,81,282.25,183.83,3.3333333333333335,1.8257418583505536,6.0,847.6869718659235,65.1302037201063,Wicked Choccy's -> Rhode Island,Fast,False
+Wicked Choccy's,Saskatchewan,2,9,29.25,18.99,5.0,0.0,5.0,1822.163681436939,64.92307692307692,Wicked Choccy's -> Saskatchewan,Low volume (<5 orders),False
+Wicked Choccy's,South Carolina,19,86,307.0,200.16,3.473684210526316,1.8369183449048445,5.0,127.17570218974345,65.19869706840392,Wicked Choccy's -> South Carolina,Fast,False
+Wicked Choccy's,South Dakota,3,9,33.75,22.05,4.333333333333333,0.5773502691896258,4.8,1338.8070876948696,65.33333333333333,Wicked Choccy's -> South Dakota,Low volume (<5 orders),False
+Wicked Choccy's,Tennessee,67,265,915.75,596.21,4.477611940298507,1.3411687457973935,6.0,398.9482553550203,65.1061971061971,Wicked Choccy's -> Tennessee,Fast,False
+Wicked Choccy's,Texas,388,1478,5140.5,3347.74,3.9329896907216493,1.7566836060836652,6.0,1070.9673994965854,65.12479330804396,Wicked Choccy's -> Texas,Typical,False
+Wicked Choccy's,Utah,23,104,362.5,236.1,4.173913043478261,1.6418441381303654,6.0,1777.8077344375367,65.13103448275862,Wicked Choccy's -> Utah,Typical,False
+Wicked Choccy's,Vermont,5,15,51.75,33.69,3.2,0.8366600265340756,4.0,945.564718297934,65.10144927536231,Wicked Choccy's -> Vermont,Slow,True
+Wicked Choccy's,Virginia,106,430,1490.0,970.2,4.113207547169812,1.6172920030658018,6.0,396.9597784116221,65.11409395973155,Wicked Choccy's -> Virginia,Fast,False
+Wicked Choccy's,Washington,221,860,3023.0,1969.6399999999999,3.8733031674208145,1.9936860433603685,7.0,2311.0594088834127,65.15514389679127,Wicked Choccy's -> Washington,Typical,False
+Wicked Choccy's,West Virginia,2,7,25.25,16.47,4.0,0.0,4.0,454.2866746740824,65.22772277227722,Wicked Choccy's -> West Virginia,Low volume (<5 orders),False
+Wicked Choccy's,Wisconsin,47,215,737.25,479.83,4.191489361702128,1.4983802540590063,6.0,990.4450235196871,65.08375720583248,Wicked Choccy's -> Wisconsin,Fast,False
